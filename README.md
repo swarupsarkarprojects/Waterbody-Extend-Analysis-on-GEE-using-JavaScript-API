@@ -1,1 +1,0 @@
-# Waterbody-Extend-Analysis-on-GEE-using-JavaScript-API
